@@ -1,0 +1,8 @@
+pandas>=2.0
+sqlalchemy>=2.0
+scipy>=1.11
+matplotlib>=3.7
+plotly>=5.18
+streamlit>=1.31
+vaderSentiment>=3.3.2
+openai>=1.30
